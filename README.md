@@ -1,5 +1,5 @@
 # algorithm
-Some solutions based on C, C++ and Python
+Some solutions based on C, C++ and Python.  
 Record the process of problem solving duing the period of undergraduate
 
 # 目录
